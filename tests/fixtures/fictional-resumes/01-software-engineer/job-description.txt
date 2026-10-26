@@ -1,0 +1,27 @@
+Backend Software Engineer
+
+Fictional Harbor Services
+
+FICTIONAL JOB DESCRIPTION FOR APP TESTING
+
+Build and maintain Python services for an internal operations platform. Work with a platform team and participate in design reviews.
+
+REQUIRED
+
+- Design and test REST APIs, including validation, errors and safe handling of retries.
+
+- Use Python and PostgreSQL to debug service behavior and query performance.
+
+- Explain transaction boundaries and tradeoffs in service design.
+
+- Collaborate on containerized delivery and review production issues.
+
+NICE TO HAVE
+
+- Kubernetes deployment familiarity.
+
+- AWS service exposure.
+
+INTERVIEW STAGE
+
+Hiring manager discussion followed by a technical interview.

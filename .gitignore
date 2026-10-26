@@ -1,0 +1,36 @@
+# GitHub allowlist: local credentials, saved runs, demo artifacts,
+# generated documents, and development environments stay outside the repo.
+/*
+!/.gitignore
+!/.env.example
+!/.streamlit/
+!/README.md
+!/app.py
+!/pyproject.toml
+!/requirements.txt
+!/prompts/
+!/src/
+!/tests/
+
+/.streamlit/*
+!/.streamlit/config.toml
+
+/prompts/*
+!/prompts/*.txt
+
+/src/*
+!/src/interview_prep/
+/src/interview_prep/*
+!/src/interview_prep/*.py
+
+/tests/*
+!/tests/test_*.py
+!/tests/fixtures/
+/tests/fixtures/*
+!/tests/fixtures/fictional-resumes/
+/tests/fixtures/fictional-resumes/*
+!/tests/fixtures/fictional-resumes/*/
+/tests/fixtures/fictional-resumes/*/*
+!/tests/fixtures/fictional-resumes/*/resume.html
+!/tests/fixtures/fictional-resumes/*/resume-reference.txt
+!/tests/fixtures/fictional-resumes/*/job-description.txt

@@ -1,0 +1,27 @@
+Technical Program Manager
+
+Fictional Alder Infrastructure
+
+FICTIONAL JOB DESCRIPTION FOR APP TESTING
+
+Coordinate a platform migration across engineering, security and operations without direct authority over every team.
+
+REQUIRED
+
+- Build dependency-aware plans and make risks and decisions visible.
+
+- Define rollout readiness, escalation paths and measurable delivery outcomes.
+
+- Resolve stakeholder conflicts and coordinate competing priorities.
+
+- Understand technical tradeoffs sufficiently to ask effective questions.
+
+- Track security review requirements with specialist owners.
+
+NICE TO HAVE
+
+- Basic SQL or reporting experience.
+
+INTERVIEW STAGE
+
+Hiring manager interview with situational program-delivery questions.

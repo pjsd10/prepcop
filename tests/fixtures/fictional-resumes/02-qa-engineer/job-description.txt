@@ -1,0 +1,29 @@
+API Quality Engineer
+
+Fictional Lantern Platform
+
+FICTIONAL JOB DESCRIPTION FOR APP TESTING
+
+Own API regression coverage for a service-oriented application, working with backend engineers and release teams.
+
+REQUIRED
+
+- Test REST methods, status codes, payload schemas and authentication failures.
+
+- Design negative cases, stateful CRUD flows and isolated test data.
+
+- Build maintainable Python tests and diagnose flaky automation.
+
+- Integrate API tests into CI and report actionable failures.
+
+- Use SQL to validate persisted results.
+
+NICE TO HAVE
+
+- Containerized test environments.
+
+- Performance-testing fundamentals.
+
+INTERVIEW STAGE
+
+Initial hiring manager interview about experience and testing approach.

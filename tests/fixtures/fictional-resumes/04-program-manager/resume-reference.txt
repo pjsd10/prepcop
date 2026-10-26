@@ -1,0 +1,47 @@
+Taylor Brooks
+
+Program Manager
+
+FICTIONAL TEST PROFILE
+
+Technical program coordinator and program manager with six years of experience supporting cross-team releases and platform migrations.
+
+SKILLS
+
+Dependency mapping, risk registers, release planning
+
+Stakeholder communication, Jira, Confluence
+
+Agile delivery, technical documentation, SQL basics
+
+EXPERIENCE
+
+Technical Program Manager | Fictional Birch Network
+
+May 2023 to October 2026
+
+Coordinated four workstreams during an internal identity-platform migration.
+
+Maintained dependency maps, decision logs and a shared release-readiness checklist.
+
+Escalated delivery risks and facilitated decisions between engineering and operations.
+
+Partnered with security specialists to track required review milestones.
+
+Prepared concise progress updates and documented unresolved blockers.
+
+Program Coordinator | Fictional Birch Network
+
+August 2020 to April 2023
+
+Tracked release dependencies and organized readiness meetings.
+
+Maintained action records and followed up with workstream owners.
+
+PROJECTS AND LEARNING
+
+SQL learning project: queried a synthetic delivery-events dataset to summarize blocked work.
+
+EDUCATION
+
+Bachelor of Science in Information Systems, Fictional Westhaven College, 2020

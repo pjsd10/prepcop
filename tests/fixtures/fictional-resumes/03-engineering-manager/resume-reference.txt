@@ -1,0 +1,47 @@
+Morgan Reed
+
+Engineering Manager
+
+FICTIONAL TEST PROFILE
+
+Engineering team lead with eight years of software-delivery experience, including two years coordinating a five-engineer team.
+
+SKILLS
+
+Technical leadership, mentoring, delivery planning
+
+Architecture reviews, Python services, incident coordination
+
+Hiring interviews, stakeholder communication
+
+EXPERIENCE
+
+Engineering Team Lead | Fictional Maple Works
+
+September 2024 to October 2026
+
+Led a five-engineer service team through roadmap planning and technical delivery.
+
+Mentored two engineers through regular technical feedback and pairing.
+
+Coordinated an incident review and tracked follow-up reliability actions.
+
+Participated in hiring interviews and provided technical feedback.
+
+Worked with the engineering manager on staffing and delivery commitments.
+
+Software Engineer | Fictional Maple Works
+
+July 2018 to August 2024
+
+Built Python services and reviewed changes across two application teams.
+
+Contributed to design reviews and supported service troubleshooting.
+
+PROJECTS AND LEARNING
+
+Team onboarding guide: organized local setup instructions and ownership documentation.
+
+EDUCATION
+
+Bachelor of Science in Software Engineering, Fictional Northbank University, 2018

@@ -1,0 +1,41 @@
+Casey Rivera
+
+Product Manager
+
+FICTIONAL TEST PROFILE
+
+Product manager with four years of experience improving internal workflow software through user interviews, prioritization and collaboration with engineering.
+
+SKILLS
+
+User discovery, product requirements, prioritization
+
+Product analytics, SQL, experimentation
+
+Roadmaps, usability testing, stakeholder communication
+
+EXPERIENCE
+
+Product Manager | Fictional Willow Tools
+
+June 2022 to October 2026
+
+Conducted user interviews with internal operations teams and synthesized recurring workflow problems.
+
+Wrote requirements and prioritized usability improvements with design and engineering.
+
+Reviewed adoption dashboards with an analyst and investigated low-use features.
+
+Helped define an onboarding change and a proposed experiment for a future release.
+
+Presented roadmap tradeoffs and documented decisions when stakeholder requests conflicted.
+
+PROJECTS AND LEARNING
+
+SQL course project: queried a synthetic event dataset to explore activation and retention.
+
+Experiment design exercise: drafted a hypothesis, outcome metric and guardrail metrics; no completed live experiment is described.
+
+EDUCATION
+
+Bachelor of Science in Information Systems, Fictional Southridge Institute, 2022

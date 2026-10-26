@@ -1,0 +1,29 @@
+Product Manager for Workflow Tools
+
+Fictional Pebble Workspace
+
+FICTIONAL JOB DESCRIPTION FOR APP TESTING
+
+Improve an internal workflow product by understanding user problems, choosing outcomes and collaborating with engineering.
+
+REQUIRED
+
+- Conduct discovery and translate evidence into prioritized problems.
+
+- Define product outcomes and interpret activation and retention metrics.
+
+- Design experiments and explain uncertainty and guardrails.
+
+- Negotiate scope and technical tradeoffs with engineering.
+
+- Communicate roadmap decisions and learn from results.
+
+NICE TO HAVE
+
+- Ability to inspect data with SQL.
+
+- Experience with internal enterprise tools.
+
+INTERVIEW STAGE
+
+Hiring manager interview about product judgment and evidence.

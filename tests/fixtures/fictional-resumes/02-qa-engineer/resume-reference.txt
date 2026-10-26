@@ -1,0 +1,41 @@
+Jordan Patel
+
+QA Engineer
+
+FICTIONAL TEST PROFILE
+
+QA automation engineer with four years of experience in Python UI automation, regression testing and defect investigation.
+
+SKILLS
+
+Python, pytest, Selenium
+
+SQL, REST API testing, Postman
+
+Jenkins, Git, Docker
+
+EXPERIENCE
+
+QA Automation Engineer | Fictional Juniper Applications
+
+July 2022 to October 2026
+
+Maintained Selenium and pytest checks for a customer-support web application.
+
+Investigated intermittent test failures and improved test-data setup.
+
+Used SQL queries to compare application results with database records.
+
+Updated stages in an existing Jenkins pipeline and reviewed failed nightly runs.
+
+Collaborated with developers on defect reproduction and release regression.
+
+PROJECTS AND LEARNING
+
+REST practice project: used Postman and Python requests against a local demonstration service.
+
+Docker lab: ran the demonstration service using an existing compose file.
+
+EDUCATION
+
+Bachelor of Engineering in Information Technology, Fictional Lakeview College, 2022

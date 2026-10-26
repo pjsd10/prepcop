@@ -1,0 +1,39 @@
+Avery Morgan
+
+Software Engineer
+
+FICTIONAL TEST PROFILE
+
+Backend engineer with three years of experience building internal service APIs and data workflows. Interested in a role with more design responsibility.
+
+SKILLS
+
+Python, FastAPI, pytest, PostgreSQL
+
+REST APIs, Git, Docker, GitHub Actions
+
+Kubernetes, AWS
+
+EXPERIENCE
+
+Software Engineer | Fictional Cedar Systems
+
+August 2023 to October 2026
+
+Implemented Python endpoints for an internal inventory service, including input validation and database queries.
+
+Added pytest regression checks and investigated slow PostgreSQL queries with a senior engineer.
+
+Maintained Docker development images and updated an existing GitHub Actions workflow.
+
+Worked with a platform team on releases; infrastructure provisioning was owned by that team.
+
+PROJECTS AND LEARNING
+
+Container deployment lab: deployed a sample service to a local Kubernetes cluster following a tutorial.
+
+API reliability exercise: experimented with retries in a local Python client; no production retry design is described.
+
+EDUCATION
+
+Bachelor of Science in Computer Science, Fictional Eastbridge Institute, 2023

@@ -1,0 +1,9 @@
+# Direct application dependencies, pinned to the locally verified environment.
+streamlit==1.66.1
+langchain==1.4.7
+langchain-openai==1.7.2
+langgraph==1.2.17
+langgraph-checkpoint-sqlite==3.1.2
+pydantic==2.14.1
+httpx==0.28.1
+python-dotenv==1.2.4
